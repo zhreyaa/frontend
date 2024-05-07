@@ -1,5 +1,5 @@
 # frontend
-Our application is named HEALOFY
+Our application is named HEALOFY.
 This repository contains the frontend code for it.
 
 Watch the video of our Application here
